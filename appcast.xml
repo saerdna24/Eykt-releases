@@ -3,12 +3,23 @@
     <channel>
         <title>Eykt</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Mon, 19 Oct 2026 19:10:21 +0200</pubDate>
+            <sparkle:version>321</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.1.1/Eykt-1.1.1.zip" length="18888479" type="application/octet-stream" sparkle:edSignature="LBd4jBnq2JJzwRBTq7lnjtb8s42kuWRpf+GX3ct1y05YJAIcNcpPsJUhEk/VsAOkqxUX4kVrn3sEo/lMR5cEDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.1.1/Eykt321-317.delta" sparkle:deltaFrom="317" length="1405354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="50SziMGLeaUy5flf7kbMSXfgVrkengTwsumk+J+2ZiIpx3rJRYsZDUI3osUl9WKe3ZjKjuQCW07C4HKGrnUNDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Thu, 15 Oct 2026 22:44:15 +0200</pubDate>
             <sparkle:version>317</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.1.0/Eykt-1.1.0-stapled.zip" length="18878625" type="application/octet-stream" sparkle:edSignature="2odt2llHuUHATld0xLJVwC1gUDHcNcWMI6HTcYXB3RSt1lyXaVGQIoCBgInUupknEX0VayBxVswwatfc4OMSAg=="/>
+            <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.1.1/Eykt-1.1.0-stapled.zip" length="18878625" type="application/octet-stream" sparkle:edSignature="2odt2llHuUHATld0xLJVwC1gUDHcNcWMI6HTcYXB3RSt1lyXaVGQIoCBgInUupknEX0VayBxVswwatfc4OMSAg=="/>
         </item>
     </channel>
 </rss>
