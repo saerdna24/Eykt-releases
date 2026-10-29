@@ -3,12 +3,25 @@
     <channel>
         <title>Eykt</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Thu, 29 Oct 2026 12:30:59 +0100</pubDate>
+            <sparkle:version>338</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.3.0/Eykt-1.3.0.zip" length="19267195" type="application/octet-stream" sparkle:edSignature="caTERc/K0Jaee+3b98XRKjk/cs+ewn+gzSrwvmIk8W4CIRVg6LNMwUrtlKtfszcXNz4c0EZAPO20aq08HpewDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.3.0/Eykt338-328.delta" sparkle:deltaFrom="328" length="2129230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AamAJpiVIe8AwMML4gdAyWhuyqTWLE/RHmXWb2GLxRktkIvFlBE5tDbezJauK/o2/3GoaCwO43cbkdz5WEH8CQ=="/>
+                <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.3.0/Eykt338-321.delta" sparkle:deltaFrom="321" length="2642642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lxiTtcp8Tfj1Qez5Fx8NcIkSbuPyvWrtVMTqOyYjF280SN7m585I0bUSy/AHtP+TufKCPxlii/K3EP/0UK6GCg=="/>
+                <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.3.0/Eykt338-317.delta" sparkle:deltaFrom="317" length="2682522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5Y28VS8l/tDUFGyM2hhl98UPrzpP6IB0XXZ25i1kOIGOHsN43BSsg+vCGAECJBaS0bmb+AiXG60D29GvlfdlBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Sun, 25 Oct 2026 13:31:23 +0100</pubDate>
             <sparkle:version>328</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.2.0/Eykt-1.2.0.zip" length="19160492" type="application/octet-stream" sparkle:edSignature="rUcdVcXKdgu4RmfHrrx3+ulfUs3Vi+pJFX9P4zu/UDkJ4BC7YVHIhTOQgJVk/F/iyh6C4/JYC+fQ2OEJ/YIFBQ=="/>
+            <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.3.0/Eykt-1.2.0.zip" length="19160492" type="application/octet-stream" sparkle:edSignature="rUcdVcXKdgu4RmfHrrx3+ulfUs3Vi+pJFX9P4zu/UDkJ4BC7YVHIhTOQgJVk/F/iyh6C4/JYC+fQ2OEJ/YIFBQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.2.0/Eykt328-321.delta" sparkle:deltaFrom="321" length="2424018" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vPKWknWMQd9sEXuxRMBszxm3MjZ2lnBaW1acCIWwnm6dUfM6+52UFUsHz4EhSizvfWopne7876TgV6qkbpf6CA=="/>
                 <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.2.0/Eykt328-317.delta" sparkle:deltaFrom="317" length="2475734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CCccNLBqxRrNIgLGJ3yuD48/j9toEwni2CXMr1vZOeGs72FGPvaU1FCVRNGd9SvMFbo1GmlOtaMbimToowYQAQ=="/>
@@ -20,18 +33,10 @@
             <sparkle:version>321</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.2.0/Eykt-1.1.1.zip" length="18888479" type="application/octet-stream" sparkle:edSignature="LBd4jBnq2JJzwRBTq7lnjtb8s42kuWRpf+GX3ct1y05YJAIcNcpPsJUhEk/VsAOkqxUX4kVrn3sEo/lMR5cEDA=="/>
+            <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.3.0/Eykt-1.1.1.zip" length="18888479" type="application/octet-stream" sparkle:edSignature="LBd4jBnq2JJzwRBTq7lnjtb8s42kuWRpf+GX3ct1y05YJAIcNcpPsJUhEk/VsAOkqxUX4kVrn3sEo/lMR5cEDA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.1.1/Eykt321-317.delta" sparkle:deltaFrom="317" length="1405354" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="50SziMGLeaUy5flf7kbMSXfgVrkengTwsumk+J+2ZiIpx3rJRYsZDUI3osUl9WKe3ZjKjuQCW07C4HKGrnUNDA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.1.0</title>
-            <pubDate>Thu, 15 Oct 2026 22:44:15 +0200</pubDate>
-            <sparkle:version>317</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/saerdna24/Eykt-releases/releases/download/v1.2.0/Eykt-1.1.0-stapled.zip" length="18878625" type="application/octet-stream" sparkle:edSignature="2odt2llHuUHATld0xLJVwC1gUDHcNcWMI6HTcYXB3RSt1lyXaVGQIoCBgInUupknEX0VayBxVswwatfc4OMSAg=="/>
         </item>
     </channel>
 </rss>
